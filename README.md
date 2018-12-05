@@ -1,6 +1,8 @@
 # Colon Cancer Outcome Calculator
 Colon Cancer Conditional Survival Outcome Calculator
 
+This calculator is published at (http://info.eecs.northwestern.edu/ColonCancerOutcomeCalculator)
+
 Step 1. Install python virtual environment (http://docs.python-guide.org/en/latest/dev/virtualenvs/)
 
 	a. Install virtualenv using pip install virtualenv
