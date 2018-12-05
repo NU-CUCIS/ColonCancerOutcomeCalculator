@@ -1,4 +1,4 @@
-# ColonCancerOutcomeCalculator
+# Colon Cancer Outcome Calculator
 Colon Cancer Conditional Survival Outcome Calculator
 
 Required Files:
