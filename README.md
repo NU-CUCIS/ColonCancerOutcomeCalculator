@@ -26,3 +26,9 @@ Step 3. Run the backend code by executing the <code>\_\_init\_\_.py</code> file
 	<code>e.g. Behavior#1#malignant potential, and uncertain malignant potential#0</code>
 
 2. If a flask.wsgi is needed, place the file flask.wsgi after changing the path in it in the apache web server path. i.e. the colon_cancer and flask.wsgi reside in the same directory
+
+## Project Publication:
+Al-Bahrani, Reda, Ankit Agrawal, and Alok Choudhary. "Survivability prediction of colon cancer patients using neural networks." Health informatics journal (2017): 1460458217720395.
+
+## Questions/Comments:
+email: rav650@eecs.northwestern.edu
