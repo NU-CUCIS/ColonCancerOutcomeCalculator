@@ -1,0 +1,133 @@
+Histology#8000#Neoplasm, malignant#0
+Histology#8001#Tumor cells, malignant#0
+Histology#8002#Malignant tumor, small cell type#0
+Histology#8004#Malignant tumor, spindle cell type#0
+Histology#8010#Carcinoma, NOS#0
+Histology#8012#Large cell carcinoma, NOS#0
+Histology#8013#Large cell neuroendocrine carcinoma#0
+Histology#8020#Carcinoma, undifferentiated type, NOS#0
+Histology#8021#Carcinoma, anaplastic type, NOS#0
+Histology#8022#Pleomorphic carcinoma#0
+Histology#8032#Spindle cell carcinoma#0
+Histology#8033#Pseudosarcomatous carcinoma#0
+Histology#8041#Small cell carcinoma, NOS#0
+Histology#8042##0
+Histology#8045##0
+Histology#8046##0
+Histology#8050#Papillary carcinoma in situ#0
+Histology#8070#Squamous cell carcinoma in situ, NOS#0
+Histology#8071#Sq. cell carcinoma, keratinizing, NOS#0
+Histology#8073#Sq. cell carcinoma, cell, non-ker.#0
+Histology#8074#Sq. cell carcinoma, spindle cell#0
+Histology#8082##0
+Histology#8083##0
+Histology#8123##0
+Histology#8140#Adenocarcinoma in situ#0
+Histology#8141#Scirrhous adenocarcinoma#0
+Histology#8142##0
+Histology#8143##0
+Histology#8144##0
+Histology#8145##0
+Histology#8190##0
+Histology#8201##0
+Histology#8210##0
+Histology#8211##0
+Histology#8213##0
+Histology#8220##0
+Histology#8221##0
+Histology#8230##0
+Histology#8231##0
+Histology#8240##0
+Histology#8241##0
+Histology#8243##0
+Histology#8244##0
+Histology#8245##0
+Histology#8246##0
+Histology#8249##0
+Histology#8255##0
+Histology#8260##0
+Histology#8261##0
+Histology#8262##0
+Histology#8263##0
+Histology#8310##0
+Histology#8320##0
+Histology#8323##0
+Histology#8380##0
+Histology#8400##0
+Histology#8430##0
+Histology#8440##0
+Histology#8441##0
+Histology#8460##0
+Histology#8461##0
+Histology#8470##0
+Histology#8472##0
+Histology#8480##0
+Histology#8481##0
+Histology#8490##0
+Histology#8507##0
+Histology#8510##0
+Histology#8550##0
+Histology#8551##0
+Histology#8560##0
+Histology#8570##0
+Histology#8572##0
+Histology#8574##0
+Histology#8576##0
+Histology#8720##0
+Histology#8800##0
+Histology#8801##0
+Histology#8802##0
+Histology#8804##0
+Histology#8805##0
+Histology#8806##0
+Histology#8810##0
+Histology#8811##0
+Histology#8814##0
+Histology#8815##0
+Histology#8830##0
+Histology#8852##0
+Histology#8854##0
+Histology#8858##0
+Histology#8890##0
+Histology#8891##0
+Histology#8896##0
+Histology#8930##0
+Histology#8936##0
+Histology#8940##0
+Histology#8951##0
+Histology#8963##0
+Histology#8980##0
+Histology#9040##0
+Histology#9100##0
+Histology#9120##0
+Histology#9140##0
+Histology#9180##0
+Histology#9364##0
+Histology#9580##0
+Histology#9590##0
+Histology#9591##0
+Histology#9650##0
+Histology#9652##0
+Histology#9670##0
+Histology#9671##0
+Histology#9673##0
+Histology#9675##0
+Histology#9680##0
+Histology#9684##0
+Histology#9687##0
+Histology#9690##0
+Histology#9691##0
+Histology#9695##0
+Histology#9698##0
+Histology#9699##0
+Histology#9702##0
+Histology#9714##0
+Histology#9717##0
+Histology#9719##0
+Histology#9724##0
+Histology#9727##0
+Histology#9731##0
+Histology#9734##0
+Histology#9735##0
+Histology#9741##0
+Histology#9930##0

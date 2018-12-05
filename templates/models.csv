@@ -1,0 +1,4 @@
+.,Survival Prediction,1 Year Conditional Survival Prediction, 2 Years Conditional Survival Prediction, 5 Years Conditional Survival Prediction
+1 Year Survival Data,one_year.pkl,two_years.pkl:one_year.pkl,three_years.pkl:one_year.pkl,six_years.pkl:one_year.pkl
+2 Years Survival Data,two_years.pkl,three_years.pkl:two_years.pkl,four_years.pkl:two_years.pkl,seven_years.pkl:two_years.pkl
+5 Years Survival Data,five_years.pkl,six_years.pkl:five_years.pkl,seven_years.pkl:five_years.pkl,ten_years.pkl:five_years.pkl

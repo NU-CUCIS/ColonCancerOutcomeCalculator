@@ -1,0 +1,8 @@
+Reason for no surgery#0#Surgery performed#0
+Reason for no surgery#1#Surgery not recommended#0
+Reason for no surgery#2#Contraindicated due to other conditions#0
+Reason for no surgery#5#Patient died before recommended surgery#0
+Reason for no surgery#6#Unknown reason for no surgery#0
+Reason for no surgery#7#Patient or patient's guardian refused#0
+Reason for no surgery#8#Recommended, unknown if done#0
+Reason for no surgery#9#Unknown if surgery performed#0

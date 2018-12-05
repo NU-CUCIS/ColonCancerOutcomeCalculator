@@ -1,0 +1,83 @@
+<html>
+<!-- this is a css file that is used to format the page -->
+<!-- <link rel=stylesheet media=screen href="{{ url_for('static', filename='bootstrap.min.css') }}"> -->
+<link rel=stylesheet media=screen href="/ColonCancerOutcomeCalculator/static/bootstrap.min.css">
+<head>
+	<!-- htmlTitle is a variable defined in __init__.py -->
+        <title>{{ htmlTitle }}</title>
+</head>
+<body>
+	<div class="container">
+	<header>
+		<div class="row">
+			<!-- <div class="col-xs-6 col-md-4">
+				Northwestern University logo
+				<img src="../static/Northwestern_University_Seal.svg" class="img-responsive" alt="Responsive image">
+			</div> -->
+			<div class="text-center">
+				<h1>Colon Cancer Outcome Calculator</h1>
+			</div>
+		</div>
+	</header>
+	</div>
+	<div class="container">
+	<nav class="navbar navbar-default">
+	<div class="navbar-header">
+	<!-- header bar -->
+	<ul class="nav navbar-nav">
+		<li role="presentation" class="active"><a href="http://info.eecs.northwestern.edu/ColonCancerOutcomeCalculator">Home</a></li>
+		<li role="presentation"><a href="/ColonCancerOutcomeCalculator">Colon Calculator</a></li>
+	</ul>
+	</div>
+	</nav>
+	</div>
+	<body>
+	<div class="container">
+	<p><small>Disclaimer: The outcome calculator results are estimates based on data consisting of a large number of colon cancer records. All results are provided for informational purposes only, in furtherance of the developers' educational mission, and are not meant to replace the advice of a medical doctor. The developers may not be held responsible for any medical decisions based on this outcome calculator.</small></p>
+	<p>Welcome to our online colon cancer outcome calculator. The calculator is based on data obtained from Surveillance Epidemiology and End Results (SEER) of the National Cancer Institute which is an authoritative repository of cancer statistics in the United States. The calculator estimates the risk of mortality after 1 year, 2 years, and 5 years of diagnosis, using a small non-redundant subset of 14 patient attributes which were carefully selected using attribute selection techniques. The graph shows the three risk values obtained for specific attribute values, which are shown in the below the graph. To obtain risk values for a new set of attribute values, please change the attribute values below and click on the submit button.</p>
+	</div>
+	<div class="container">
+		<h4>Please select your inputs</h4>
+			<div class="row">
+			<!-- form is a variable defined in __init__.py -->
+			<form action="/ColonCancerOutcomeCalculator/coloncalc.html" class="form-horizontal" id={{form}} method="POST">
+			<!-- droplists is a list defined in __init__.py -->
+			<!-- droplists contains all information needed to generate the html code for all the drop lists used in this form -->
+			{% for d in droplists %}
+				<div class="form-group">
+					<label class="col-sm-2 control-label">{{d[0][0]}}</label>
+					<div class="col-sm-10">
+						<select name={{d[0][0]}} class="form-control" form={{form}}>
+        					{% for i in d %}
+            						<option value={{i[1]}} {% if i[-1]== 1 %} selected {% endif %}>{{i[2]}}</option>
+        					{% endfor %}
+        					</select>
+					</div>
+				</div>
+			{% endfor %}
+			<!-- numbers is a list defined in __init__.py -->
+			<!-- numbers contains all information needed to generate the html code for all the text fields used in this form -->
+			{% for n in numbers %}
+				<div class="form-group">
+                                	<label class="col-sm-2 control-label">{{n[0][6]}}</label>
+					<div class="col-sm-10">
+        					<input class="form-control" type={{n[0][0]}} size={{n[0][1]}} name={{n[0][2]}} min={{n[0][3]}} max={{n[0][4]}} value={{n[0][5]}} form={{form}} step="any" required>
+					</div>
+				</div>
+			{% endfor %}
+			</div>
+				<div class="form-group">
+					<div class="col-sm-offset-2 col-sm-10">
+						<button type="submit" class="btn btn-default">Predict</button>
+					</div>
+				</div>
+                        </form>
+			</div>
+		</div>
+	</div>
+	</body>
+	<div class="container">
+	<footer>Developed by Reda Al-Bahrani - Center for Ultra-scale Computing and Information Security (CUCIS), EECS Department, Northwestern University, Evanston, IL 60208, USA</footer>
+	</div>
+</body>
+</html>

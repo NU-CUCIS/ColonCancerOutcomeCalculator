@@ -1,0 +1,9 @@
+Grade#1#Grade I; grade i; grade 1; well differentiated; differentiated, NOS#0
+Grade#2#Grade II; grade ii; grade 2; moderately differentiated; moderately differentiated; intermediate differentiation#0
+Grade#3#Grade III; grade iii; grade 3; poorly differentiated; differentiated#0
+Grade#4#Grade IV; grade iv; grade 4; undifferentiated; anaplastic#0
+Grade#5#T-cell; T-precursor#0
+Grade#6#B-cell; Pre-B; B-Precursor#0
+Grade#7#Null cell; Non T-non B;#0
+Grade#8#N K cell (natural killer cell)#0
+Grade#9#cell type not determined, not stated or not applicable#0

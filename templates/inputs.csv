@@ -1,0 +1,14 @@
+Marital, str
+Race, str
+year_birth, int
+Birth, str
+Grade, str
+Diagnostic, str
+Extension, str
+EOD, str
+Regional, str
+Surgery, str
+Reason, str
+tumor_size, float
+positive_nodes, int
+age, int

@@ -1,0 +1,6 @@
+Extension#00#Noninvasive tumor#0
+Extension#05#Polyp, noninvasive#0
+Extension#20#Localized tumor in colon#0
+Extension#45#Tumor invasive through bowel wall or adjacent structures#0
+Extension#85#Tumor with distant involvement#0
+Extension#99#Unknown extension#0

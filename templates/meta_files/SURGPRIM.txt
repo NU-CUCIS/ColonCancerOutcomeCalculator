@@ -1,0 +1,20 @@
+Surgery Primary Site#00#None; no cancer-directed surgery of primary site#0
+Surgery Primary Site#10#Local tumor destruction#0
+Surgery Primary Site#12#Electrocautery; fulguration (includes use of hot forceps for tumor destruction)#0
+Surgery Primary Site#14#Laser#0
+Surgery Primary Site#20#Local tumor excision#0
+Surgery Primary Site#21#Photodynamic therapy (PDT)#0
+Surgery Primary Site#22#Electrocautery#0
+Surgery Primary Site#23#Cryosurgery#0
+Surgery Primary Site#24#Laser ablation#0
+Surgery Primary Site#25#Laser excision#0
+Surgery Primary Site#26#Polypectomy#0
+Surgery Primary Site#27#Excisional biopsy#0
+Surgery Primary Site#30#Partial colectomy, but less than hemicolectomy#0
+Surgery Primary Site#40#Hemicolectomy or greater (but less than total); right or left colectomy#0
+Surgery Primary Site#50#Total colectomy#0
+Surgery Primary Site#60#Total proctocolectomy#0
+Surgery Primary Site#70#Colectomy or coloproctectomy WITH an en bloc resection of other organs; pelvic exenteration#0
+Surgery Primary Site#80#Colectomy#0
+Surgery Primary Site#90#Surgery#0
+Surgery Primary Site#99#Unknown#0

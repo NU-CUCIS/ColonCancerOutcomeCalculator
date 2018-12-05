@@ -1,0 +1,3 @@
+Behavior#1#malignant potential, and uncertain malignant potential#0
+Behavior#2#Carcinoma in situ; intraepithelial; noninfiltrating; noninvasive#0
+Behavior#3#Malignant, primary site#0

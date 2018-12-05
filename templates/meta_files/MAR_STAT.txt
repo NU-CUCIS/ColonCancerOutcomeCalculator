@@ -1,0 +1,7 @@
+Marital Status at diagnoses#1#Single (never married)#0
+Marital Status at diagnoses#2#Married (including common law)#0
+Marital Status at diagnoses#3#Separated#0
+Marital Status at diagnoses#4#Divorced#0
+Marital Status at diagnoses#5#Widowed#0
+Marital Status at diagnoses#6#Unmarried or domestic partner (same sex or opposite sex or unregistered)#0
+Marital Status at diagnoses#9#Unknown#0

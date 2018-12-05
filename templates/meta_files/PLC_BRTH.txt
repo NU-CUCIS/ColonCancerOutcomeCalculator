@@ -1,0 +1,365 @@
+Birth Place#638#Afghanistan#0
+Birth Place#500#Africa#0
+Birth Place#37#Alabama#0
+Birth Place#91#Alaska#0
+Birth Place#481#Albania#0
+Birth Place#244#Alberta#0
+Birth Place#224#Alberta#0
+Birth Place#513#Algeria#0
+Birth Place#121#American Samoa#0
+Birth Place#641#Andaman Islands#0
+Birth Place#443#Andorra#0
+Birth Place#543#Angola (Sao Tome - Principe - Cabinda)#0
+Birth Place#254#Anguilla#0
+Birth Place#254#Antigua and Barbuda#0
+Birth Place#254#Antilles#0
+Birth Place#365#Argentina#0
+Birth Place#87#Arizona#0
+Birth Place#71#Arkansas#0
+Birth Place#633#Armenia#0
+Birth Place#611#Armenia (Turkey)#0
+Birth Place#254#Aruba#0
+Birth Place#600#Asia#0
+Birth Place#611#Asia Minor#0
+Birth Place#100#Atlantic/Caribbean Area#0
+Birth Place#711#Australia#0
+Birth Place#436#Austria#0
+Birth Place#633#Azerbaijan (Nagorno-Karabakh)#0
+Birth Place#633#Azerbaizhan S.S.R#0
+Birth Place#455#Azores#0
+Birth Place#445#Azores#0
+Birth Place#629#Bahrain#0
+Birth Place#443#Balearic Islands#0
+Birth Place#645#Bangladesh#0
+Birth Place#254#Barbados#0
+Birth Place#457#Belarus#0
+Birth Place#433#Belgium#0
+Birth Place#252#Belize (British Honduras)#0
+Birth Place#539#Benin (Dahomey)#0
+Birth Place#246#Bermuda#0
+Birth Place#643#Bhutan#0
+Birth Place#452#Bohemia#0
+Birth Place#355#Bolivia#0
+Birth Place#673#Borneo#0
+Birth Place#453#Bosnia-Herzogovina#0
+Birth Place#545#Botswana (Bechuanaland)#0
+Birth Place#341#Brazil#0
+Birth Place#226#British Columbia#0
+Birth Place#254#British Virgin Islands#0
+Birth Place#254#British West Indies#0
+Birth Place#671#Brunei#0
+Birth Place#454#Bulgaria#0
+Birth Place#520#Burkina Faso#0
+Birth Place#97#California#0
+Birth Place#663#Cambodia#0
+Birth Place#539#Cameroon (Kameroon)#0
+Birth Place#220#Canada#0
+Birth Place#110#Canal Zone#0
+Birth Place#443#Canary Islands#0
+Birth Place#122#Canton Islands#0
+Birth Place#455#Cape Verde Islands#0
+Birth Place#445#Cape Verde Islands#0
+Birth Place#254#Caribbean#0
+Birth Place#711#Cartier Islands#0
+Birth Place#254#Cayman Islands#0
+Birth Place#500#Central Africa#0
+Birth Place#539#Central African Republic (French Equatorial Africa)#0
+Birth Place#250#Central America#0
+Birth Place#520#Chad#0
+Birth Place#401#Channel Islands#0
+Birth Place#361#Chile#0
+Birth Place#681#China#0
+Birth Place#682#China (People's Republic of China)#0
+Birth Place#711#Cocos (Keeling) Islands#0
+Birth Place#311#Colombia#0
+Birth Place#83#Colorado#0
+Birth Place#539#Congo (Congo-Brazzaville - French Congo)#0
+Birth Place#7#Connecticut#0
+Birth Place#77#Connecticut#0
+Birth Place#124#Cook Islands (New Zealand)#0
+Birth Place#441#Corsica#0
+Birth Place#256#Costa Rica#0
+Birth Place#539#Cote d'Ivoire (Ivory Coast)#0
+Birth Place#471#Crete#0
+Birth Place#453#Croatia#0
+Birth Place#241#Cuba#0
+Birth Place#254#Curacao#0
+Birth Place#495#Cyprus#0
+Birth Place#452#Czech Republic#0
+Birth Place#453#Dalmatia#0
+Birth Place#17#Delaware#0
+Birth Place#425#Denmark#0
+Birth Place#22#District of Columbia#0
+Birth Place#254#Dominica#0
+Birth Place#243#Dominican Republic#0
+Birth Place#570#East Africa#0
+Birth Place#680#East Asia#0
+Birth Place#345#Ecuador#0
+Birth Place#519#Egypt (United Arab Republic)#0
+Birth Place#122#Enderbury Islands#0
+Birth Place#401#England#0
+Birth Place#500#Equatorial Africa#0
+Birth Place#539#Equatorial Guinea#0
+Birth Place#585#Eritrea#0
+Birth Place#458#Estonia (Estonian S.S.R.)#0
+Birth Place#585#Ethiopia#0
+Birth Place#499#Europe#0
+Birth Place#425#Faroe (Faeroe) Islands#0
+Birth Place#721#Fiji#0
+Birth Place#429#Finland#0
+Birth Place#35#Florida#0
+Birth Place#441#France#0
+Birth Place#725#French Polynesia#0
+Birth Place#530#French West Africa#0
+Birth Place#254#French West Indies#0
+Birth Place#721#Futuna#0
+Birth Place#539#Gabon#0
+Birth Place#345#Galapagos Islands#0
+Birth Place#539#Gambia The#0
+Birth Place#631#Gaza#0
+Birth Place#33#Georgia#0
+Birth Place#633#Georgia#0
+Birth Place#430#Germanic Countries#0
+Birth Place#431#Germany#0
+Birth Place#539#Ghana#0
+Birth Place#485#Gibraltar#0
+Birth Place#122#Gilbert Islands#0
+Birth Place#471#Greece#0
+Birth Place#210#Greenland#0
+Birth Place#254#Grenada#0
+Birth Place#254#Grenadines The#0
+Birth Place#254#Guadeloupe#0
+Birth Place#126#Guam#0
+Birth Place#251#Guatemala#0
+Birth Place#401#Guernsey#0
+Birth Place#539#Guinea#0
+Birth Place#539#Guinea Bissau (Portuguese Guinea)#0
+Birth Place#331#Guyana (British Guiana)#0
+Birth Place#242#Haiti#0
+Birth Place#99#Hawaii#0
+Birth Place#253#Honduras#0
+Birth Place#683#Hong Kong#0
+Birth Place#475#Hungary#0
+Birth Place#81#Idaho#0
+Birth Place#61#Illinois#0
+Birth Place#641#India#0
+Birth Place#45#Indiana#0
+Birth Place#660#Indochina#0
+Birth Place#673#Indonesia (Dutch East Indies)#0
+Birth Place#53#Iowa#0
+Birth Place#637#Iran (Persia)#0
+Birth Place#627#Iraq#0
+Birth Place#620#Iraq-Saudi Arabia Neutral Zone#0
+Birth Place#410#Ireland#0
+Birth Place#410#Ireland (Eire)#0
+Birth Place#401#Isle of Man#0
+Birth Place#631#Israel and former Jewish Palestine#0
+Birth Place#447#Italy#0
+Birth Place#693#Japan#0
+Birth Place#673#Java#0
+Birth Place#401#Jersey#0
+Birth Place#625#Jordan#0
+Birth Place#453#Jugoslavia#0
+Birth Place#663#Kampuchea#0
+Birth Place#65#Kansas#0
+Birth Place#634#Kazakhstan (Kazakh S.S.R.)#0
+Birth Place#47#Kentucky#0
+Birth Place#575#Kenya#0
+Birth Place#122#Kiribati#0
+Birth Place#629#Kuwait#0
+Birth Place#634#Kyrgystan (Kirghiz S.S.R. - Kyrgyz)#0
+Birth Place#221#Labrador#0
+Birth Place#661#Laos#0
+Birth Place#459#Latvia (Latvian S.S.R.)#0
+Birth Place#623#Lebanon#0
+Birth Place#545#Lesotho (Basutoland)#0
+Birth Place#539#Liberia#0
+Birth Place#517#Libya#0
+Birth Place#461#Lithuania#0
+Birth Place#461#Lithuanian S.S.R.#0
+Birth Place#73#Louisiana#0
+Birth Place#434#Luxembourg#0
+Birth Place#686#Macao (Macau)#0
+Birth Place#453#Macedonia#0
+Birth Place#555#Madagascar#0
+Birth Place#455#Madeira Islands#0
+Birth Place#445#Madeira Islands#0
+Birth Place#2#Maine#0
+Birth Place#555#Malagasy Republic#0
+Birth Place#551#Malawi#0
+Birth Place#671#Malay Peninsula#0
+Birth Place#671#Malaysia#0
+Birth Place#640#Maldives#0
+Birth Place#520#Mali#0
+Birth Place#491#Malta#0
+Birth Place#244#Manitoba#0
+Birth Place#224#Manitoba#0
+Birth Place#131#Marshall Islands#0
+Birth Place#21#Maryland#0
+Birth Place#5#Massachusetts#0
+Birth Place#520#Mauritania#0
+Birth Place#230#Mexico#0
+Birth Place#41#Michigan#0
+Birth Place#123#Micronesia [Federated States of]#0
+Birth Place#723#Micronesian Islands: Christmas Island - Nauru#0
+Birth Place#52#Minnesota#0
+Birth Place#39#Mississippi#0
+Birth Place#63#Missouri#0
+Birth Place#456#Moldavia#0
+Birth Place#441#Monaco#0
+Birth Place#56#Montana#0
+Birth Place#453#Montenegro#0
+Birth Place#452#Moravia#0
+Birth Place#511#Morocco#0
+Birth Place#80#Mountain States#0
+Birth Place#649#Myanmar (Burma)#0
+Birth Place#545#Namibia (South West Africa)#0
+Birth Place#67#Nebraska#0
+Birth Place#643#Nepal#0
+Birth Place#432#Netherlands - Holland#0
+Birth Place#85#Nevada#0
+Birth Place#221#New Brunswick#0
+Birth Place#725#New Caledonia#0
+Birth Place#1#New England#0
+Birth Place#673#New Guinea#0
+Birth Place#711#New Guinea Australian#0
+Birth Place#711#New Guinea North East#0
+Birth Place#3#New Hampshire#0
+Birth Place#721#New Hebrides#0
+Birth Place#8#New Jersey#0
+Birth Place#1#New Jersey#0
+Birth Place#86#New Mexico#0
+Birth Place#11#New York#0
+Birth Place#715#New Zealand#0
+Birth Place#221#Newfoundland#0
+Birth Place#255#Nicaragua#0
+Birth Place#520#Niger#0
+Birth Place#531#Nigeria#0
+Birth Place#715#Niue#0
+Birth Place#711#Norfolk Island#0
+Birth Place#510#North Africa#0
+Birth Place#240#North American Islands#0
+Birth Place#671#North Borneo#0
+Birth Place#25#North Carolina#0
+Birth Place#40#North Central States#0
+Birth Place#54#North Dakota#0
+Birth Place#695#North Korea#0
+Birth Place#10#North Mid-Atlantic States#0
+Birth Place#404#Northern Ireland (Ulster)#0
+Birth Place#129#Northern Mariana Islands#0
+Birth Place#225#Northwest Territories#0
+Birth Place#423#Norway#0
+Birth Place#221#Nova Scotia#0
+Birth Place#720#Oceania#0
+Birth Place#43#Ohio#0
+Birth Place#75#Oklahoma#0
+Birth Place#629#Oman#0
+Birth Place#223#Ontario#0
+Birth Place#95#Oregon#0
+Birth Place#403#Orkney Islands#0
+Birth Place#109#Other Atlantic/Caribbean Area#0
+Birth Place#245#Other Caribbean Islands#0
+Birth Place#470#Other mainland Europe#0
+Birth Place#120#Pacific Area#0
+Birth Place#90#Pacific Coast States#0
+Birth Place#639#Pakistan#0
+Birth Place#139#Palau#0
+Birth Place#631#Palestine#0
+Birth Place#257#Panama#0
+Birth Place#711#Papau New Guinea#0
+Birth Place#371#Paraguay#0
+Birth Place#14#Pennsylvania#0
+Birth Place#351#Peru#0
+Birth Place#675#Philippines#0
+Birth Place#122#Phoenix Islands#0
+Birth Place#725#Pitcairn Islands#0
+Birth Place#998#Place of Birth stated not to be in United States - no other information available#0
+Birth Place#999#Place of Birth unknown#0
+Birth Place#451#Poland#0
+Birth Place#720#Polynesia#0
+Birth Place#455#Portugal#0
+Birth Place#445#Portugal#0
+Birth Place#221#Prince Edward Island#0
+Birth Place#101#Puerto Rico#0
+Birth Place#629#Qatar#0
+Birth Place#222#Quebec#0
+Birth Place#410#Republic of Ireland#0
+Birth Place#545#Republic of South Africa#0
+Birth Place#6#Rhode Island#0
+Birth Place#547#Rhodesia#0
+Birth Place#449#Romania#0
+Birth Place#134#Ryukyu Islands (Japan)#0
+Birth Place#244#Saskatchewan#0
+Birth Place#224#Saskatchewan#0
+Birth Place#629#Saudi Arabia#0
+Birth Place#420#Scandinavia Lapland NOS#0
+Birth Place#403#Scotland#0
+Birth Place#539#Senegal#0
+Birth Place#453#Serbia#0
+Birth Place#403#Shetland Islands#0
+Birth Place#539#Sierra Leone#0
+Birth Place#643#Sikkim#0
+Birth Place#671#Singapore#0
+Birth Place#450#Slavic Countries#0
+Birth Place#453#Slavonia#0
+Birth Place#452#Slovak Republic#0
+Birth Place#452#Slovakia#0
+Birth Place#453#Slovenia#0
+Birth Place#721#Solomon Islands#0
+Birth Place#540#South Africa#0
+Birth Place#300#South America#0
+Birth Place#26#South Carolina#0
+Birth Place#55#South Dakota#0
+Birth Place#695#South Korea#0
+Birth Place#20#South Mid-Atlantic States#0
+Birth Place#122#Southern Line Islands#0
+Birth Place#133#Southern Nampo-Shoto#0
+Birth Place#547#Southern Rhodesia#0
+Birth Place#443#Spain#0
+Birth Place#647#Sri Lanka (Ceylon)#0
+Birth Place#520#Sudan#0
+Birth Place#423#Svalbard#0
+Birth Place#545#Swaziland#0
+Birth Place#427#Sweden#0
+Birth Place#435#Switzerland#0
+Birth Place#621#Syria#0
+Birth Place#684#Taiwan#0
+Birth Place#634#Tajikistan (Tadzhik S.S.R.)#0
+Birth Place#31#Tennessee#0
+Birth Place#651#Thailand (Siam)#0
+Birth Place#247#The Bahamas#0
+Birth Place#539#Togo#0
+Birth Place#136#Tokelau Islands (New Zealand)#0
+Birth Place#725#Tonga#0
+Birth Place#515#Tunisia#0
+Birth Place#611#TurkeyAnatolia#0
+Birth Place#634#Turkmenistan (Turkmen S.S.R.)#0
+Birth Place#102#U.S. Virgin Islands#0
+Birth Place#573#Uganda#0
+Birth Place#456#Ukraine and Moldova (Bessarabia)#0
+Birth Place#629#United Arab Emirates#0
+Birth Place#400#United Kingdom#0
+Birth Place#0#United States#0
+Birth Place#375#Uruguay#0
+Birth Place#84#Utah#0
+Birth Place#634#Uzbekistan (Uzbek S.S.R.)#0
+Birth Place#721#Vanuatu#0
+Birth Place#321#Venezuela#0
+Birth Place#4#Vermont#0
+Birth Place#665#Vietnam#0
+Birth Place#23#Virginia#0
+Birth Place#137#Wake Island#0
+Birth Place#402#Wales#0
+Birth Place#721#Wallis#0
+Birth Place#93#Washington#0
+Birth Place#530#West Africa#0
+Birth Place#631#West Bank#0
+Birth Place#24#West Virginia#0
+Birth Place#520#Western (Spanish) Sahara#0
+Birth Place#725#Western Samoa#0
+Birth Place#51#Wisconsin#0
+Birth Place#82#Wyoming#0
+Birth Place#629#Yemen#0
+Birth Place#225#Yukon Territory#0
+Birth Place#541#Zaire#0
+Birth Place#547#Zimbabwe#0

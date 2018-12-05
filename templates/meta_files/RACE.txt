@@ -1,0 +1,29 @@
+Race#01#White#0
+Race#02#Black#0
+Race#03#American Indian, Aleutian, Alaskan Native or Eskimo (includes all indigenous populations of the Western hemisphere)#0
+Race#04#Chinese#0
+Race#05#Japanese#0
+Race#06#Filipino#0
+Race#07#Hawaiian#0
+Race#08#Korean (Effective with 1/1/1988 dx)#0
+Race#10#Vietnamese (Effective with 1/1/1988 dx)#0
+Race#11#Laotian (Effective with 1/1/1988 dx)#0
+Race#13#Kampuchean (including Khmer and Cambodian) (Effective with 1/1/1988 dx)#0
+Race#14#Thai (Effective with 1/1/1994 dx)#0
+Race#15#Asian Indian or Pakistani, NOS (Effective with 1/1/1988 dx)#0
+Race#16#Asian Indian (Effective with 1/1/2010 dx)#0
+Race#17#Pakistani (Effective with 1/1/2010 dx)#0
+Race#20#Micronesian, NOS (Effective with 1/1/1991)#0
+Race#21#Chamorran (Effective with 1/1/1991 dx)#0
+Race#22#Guamanian, NOS (Effective with 1/1/1991 dx)#0
+Race#25#Polynesian, NOS (Effective with 1/1/1991 dx)#0
+Race#26#Tahitian (Effective with 1/1/1991 dx)#0
+Race#27#Samoan (Effective with 1/1/1991 dx)#0
+Race#28#Tongan (Effective with 1/1/1991 dx)#0
+Race#30#Melanesian, NOS (Effective with 1/1/1991 dx)#0
+Race#31#Fiji Islander (Effective with 1/1/1991 dx)#0
+Race#32#New Guinean (Effective with 1/1/1991 dx)#0
+Race#96#Other Asian, including Asian, NOS and Oriental, NOS (Effective with 1/1/1991 dx)#0
+Race#97#Pacific Islander, NOS (Effective with 1/1/1991 dx)#0
+Race#98#Other#0
+Race#99#Unknown#0

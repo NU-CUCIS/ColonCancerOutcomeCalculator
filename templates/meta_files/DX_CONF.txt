@@ -1,0 +1,8 @@
+Diagnostic Confirmation#1#Positive histology#0
+Diagnostic Confirmation#2#Positive cytology#0
+Diagnostic Confirmation#4#Positive microscopic confirmation, method not specified#0
+Diagnostic Confirmation#5#Positive laboratory test/marker study#0
+Diagnostic Confirmation#6#Direct visualization without microscopic confirmation#0
+Diagnostic Confirmation#7#Radiology and other imaging techniques without microscopic confirmation#0
+Diagnostic Confirmation#8#Clinical diagnosis only (other than 5, 6, or 7)#0
+Diagnostic Confirmation#9#Unknown whether microscopically confirmed#0

@@ -1,0 +1,8 @@
+AJCC stage 3rd edition#00#In Situ #0
+AJCC stage 3rd edition#10#I#0
+AJCC stage 3rd edition#20#II#0
+AJCC stage 3rd edition#30#III#0
+AJCC stage 3rd edition#40#IV#0
+AJCC stage 3rd edition#88#Recode scheme not yet availible#0
+AJCC stage 3rd edition#90#Unstaged#0
+AJCC stage 3rd edition#98#Not applicable#0

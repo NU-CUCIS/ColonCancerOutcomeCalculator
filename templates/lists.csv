@@ -1,0 +1,10 @@
+Marital,MAR_STAT.txt
+Race,RACE.txt
+Birth,PLC_BRTH.txt
+Grade,GRADE.txt
+Diagnostic,DX_CONF.txt
+Extension,EOD10_EX.txt
+EOD,EOD10_ND.txt
+Regional,EOD10_NE.txt
+Surgery,SURGPRIM.txt
+Reason,NO_SURG.txt

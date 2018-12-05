@@ -1,0 +1,11 @@
+EOD 10--Lymph Node Involv#0#No lymph node involvement#0
+EOD 10--Lymph Node Involv#1#All colon subsites#0
+EOD 10--Lymph Node Involv#2#Cecum and Appendix#0
+EOD 10--Lymph Node Involv#2#Ascending colon#0
+EOD 10--Lymph Node Involv#2#Transverse colon and flexures#0
+EOD 10--Lymph Node Involv#2#Descending colon#0
+EOD 10--Lymph Node Involv#2#Sigmoid#0
+EOD 10--Lymph Node Involv#3#Mesenteric#0
+EOD 10--Lymph Node Involv#7#Other than above, incl. superior mesenteric#0
+EOD 10--Lymph Node Involv#8#Lymph Nodes, NOS#0
+EOD 10--Lymph Node Involv#9#UNKNOWN; not stated#0
