@@ -21,4 +21,4 @@ Notes:
 dropdown_list_label#code#text_associated with the code#flag used to keep track of selection
 e.g. Behavior#1#malignant potential, and uncertain malignant potential#0
 
-2. Place the file flask.wsgi after changing the path in it in the apache web server path. i.e. the colon_cancer and flask.wsgi reside in the same directory
+2. If a flask.wsgi is needed, place the file flask.wsgi after changing the path in it in the apache web server path. i.e. the colon_cancer and flask.wsgi reside in the same directory
