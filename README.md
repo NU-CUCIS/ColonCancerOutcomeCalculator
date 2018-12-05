@@ -1,10 +1,6 @@
 # Colon Cancer Outcome Calculator
 Colon Cancer Conditional Survival Outcome Calculator
 
-Required Files:
-1. flask.wsgi - https://copy.com/i3GsLBsXsggjTcPW
-2. colon_cancer.zip - https://copy.com/0nx8tAPanVEtGewY 
-
 Step 1. Install python virtual environment (http://docs.python-guide.org/en/latest/dev/virtualenvs/)
 
 	a. Install virtualenv using pip install virtualenv
